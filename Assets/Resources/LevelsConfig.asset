@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c17efe23996241dfa294f3620a37a4b5, type: 3}
+  m_Name: LevelsConfig
+  m_EditorClassIdentifier: 
+  BgCurvePrefab: {fileID: 1294915666586698597, guid: 94fa4921f1be65548b8b2b1e95d27d0b, type: 3}
+  BallColors:
+  - {r: 1, g: 0.042452812, b: 0.042452812, a: 1}
+  - {r: 0.0628724, g: 1, b: 0.023584902, a: 1}
+  - {r: 0, g: 1, b: 0.9687028, a: 1}
+  PlayerPrefab: {fileID: 4170663086558108082, guid: 3cabac3d9ce780e4883fd15a08837fd0, type: 3}
+  Levels:
+  - Curves:
+    - Points:
+      - Position: {x: 7.5317383, y: -1.4936357}
+        ControlFirst: {x: 8.531738, y: -2.669477}
+        ControlSecond: {x: 6.5317383, y: -0.31779444}
+        ControlType: 1
+      - Position: {x: 0.54025126, y: 3.0508301}
+        ControlFirst: {x: 2.44702, y: 3.0508301}
+        ControlSecond: {x: -1.3665175, y: 3.0508301}
+        ControlType: 1
+      - Position: {x: -3.4957435, y: -3.05083}
+        ControlFirst: {x: -1.5254161, y: -3.1143892}
+        ControlSecond: {x: -5.466071, y: -2.9872706}
+        ControlType: 1
+      - Position: {x: -7.5952964, y: 2.0656662}
+        ControlFirst: {x: -6.2139435, y: 0.13347435}
+        ControlSecond: {x: -8.976649, y: 3.997858}
+        ControlType: 1
+      - Position: {x: 7.5317383, y: -1.4936357}
+        ControlFirst: {x: 8.531738, y: -2.669477}
+        ControlSecond: {x: 6.5317383, y: -0.31779444}
+        ControlType: 1
+      - Position: {x: 0.54025126, y: 3.0508301}
+        ControlFirst: {x: 2.44702, y: 3.0508301}
+        ControlSecond: {x: -1.3665175, y: 3.0508301}
+        ControlType: 1
+      - Position: {x: -3.4957435, y: -3.05083}
+        ControlFirst: {x: -1.5254161, y: -3.1143892}
+        ControlSecond: {x: -5.466071, y: -2.9872706}
+        ControlType: 1
+      - Position: {x: -7.5952964, y: 2.0656662}
+        ControlFirst: {x: -6.2139435, y: 0.13347435}
+        ControlSecond: {x: -8.976649, y: 3.997858}
+        ControlType: 1
+      Duration: 45
+      ColorCount: 0
+    Player:
+      Position: {x: 3, y: -3, z: 0}
+    BallColorCount: 3

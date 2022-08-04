@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386aaedc159845899c2cdae313f4d764, type: 3}
+  m_Name: RecyclerConfig
+  m_EditorClassIdentifier: 
+  Prefabs:
+  - {fileID: 5111695403582205763, guid: 11ec552514d5d184f8ec616544768349, type: 3}
+  - {fileID: 3796591874410686236, guid: 3cabac3d9ce780e4883fd15a08837fd0, type: 3}
+  - {fileID: 1294915666586698605, guid: 94fa4921f1be65548b8b2b1e95d27d0b, type: 3}
+  - {fileID: 4963147942660473257, guid: 4d2aacaa4430a8d4585af7ab73273804, type: 3}
+  - {fileID: 2666484745362941229, guid: 54fb8b5f2398e3a42a1cc258d5266fea, type: 3}
+  - {fileID: 439714698146697624, guid: 70d7d4ac1cd8914409e98eecda382eeb, type: 3}
